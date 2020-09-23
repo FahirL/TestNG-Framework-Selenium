@@ -1,3 +1,9 @@
+# About project
+
+You can see basic concepts in this repository. I wrote examples how it framework working. 
+#gif
+
+
 # TestNG-Framework-Selenium
 
 [![Build Status](http://img.shields.io/travis/cbeust/testng-eclipse.svg)](https://travis-ci.org/cbeust/testng-eclipse)
