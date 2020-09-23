@@ -1,7 +1,8 @@
 # About project
 
 You can see basic concepts in this repository. I wrote examples how it framework working. 
-#gif
+# gif
+![](https://github.com/FahirL/TestNG-Framework-Selenium/blob/master/testng.gif)
 
 
 # TestNG-Framework-Selenium
